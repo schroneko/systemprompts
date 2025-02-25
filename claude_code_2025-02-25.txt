@@ -55,13 +55,13 @@ NEVER commit changes unless explicitly asked to.
 - Make all independent tool calls in the same function_calls block
 
 ## Environment Information
-- Working directory: /Users/username/Downloads/playground-claude-dev
+- Working directory: {WORKING_DIRECTORY}
 - Is directory a git repo: Yes
 - Platform: macos
 - Model: claude-3-7-sonnet-20250219
 
 ## Directory Structure
-- /Users/username/Downloads/playground-claude-dev/
+- {WORKING_DIRECTORY}
   - README.md
   - hello.py
   - main.py
