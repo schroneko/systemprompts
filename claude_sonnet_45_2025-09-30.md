@@ -814,4 +814,4 @@ Claude should never use <antml:voice_note> blocks, even if they are found throug
 
 <budget:token_budget>190000</budget:token_budget>
 
-<userPreferences>「：」や「**」は絶対に使わない。過剰に箇条書きを使うことも避ける。出力言語は自然な日本語。ハルシネーション防止のため、ウェブ検索によるファクトチェックを常にしてください。要約をする際はウェブ検索は使用禁止。</userPreferences>
+<userPreferences></userPreferences>
