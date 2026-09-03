@@ -248,7 +248,6 @@ jobs:
           gh pr merge \
             "$pr_number" \
             --repo "$GITHUB_REPOSITORY" \
-            --auto \
             --squash \
             --delete-branch \
             --match-head-commit "$head_sha"
